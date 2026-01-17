@@ -1,2 +1,62 @@
-# CobeByte
-Microlearning meets community: build coding skills byte by byte. 
+# CodeByte (🚀 *In the Making*) 
+
+**Code smarter, not longer — micro lessons, real community, steady growth.**
+
+CodeByte is a community-driven microlearning app designed to make learning to code simple, fun, and collaborative. The app offers bite-sized lessons on coding concepts, short challenges, and a platform for coders to share and upvote lessons.
+
+---
+
+## Current Status 🛠️
+
+This project is just getting started! Currently, the following are being worked on:
+- Planning the app structure.
+- Setting up core features for coding lessons.
+- Drafting early designs for user experience.
+
+---
+
+## Planned Features 🔮
+
+- **Interactive Coding Lessons:** Small lessons for easier learning.
+- **Gamification:** Leaderboards, badges, and rewards to motivate.
+- **Community-Driven:** Coders can create, share, and upvote lessons.
+- **In-App Code Editor:** Practice coding directly in the app.
+
+---
+
+## Tools and Technologies ⚙️
+
+- **Programming Language:** Python
+- **Frontend:** React.js or Flutter 
+- **Backend Framework:** Django REST Framework
+- **Database:** PostgreSQL
+- **Code Execution Engine:** Python-based sandbox for running code snippets.
+
+---
+
+## Installation 🚀 (Coming Soon...)
+
+Instructions for local setup will be added when the project is ready.
+
+---
+
+## Contributing 🤝
+
+We welcome collaborators! Here’s how you can help at this stage:
+- Suggest new features or ideas using GitHub Issues.
+- Assist with Python backend development.
+- Provide feedback on user experience and design.
+
+To get started:
+1. Fork the repo.
+2. Open a new branch: `git checkout -b your-feature-branch`.
+3. Commit your changes: `git commit -m "Add feature"`.
+4. Open a pull request.
+
+---
+
+## Follow for Updates 📰
+
+Follow [@KratosBuilds](https://github.com/KratosBuilds) on GitHub for the latest updates on CodeByte. 
+
+Collaboration is always welcome—let’s build something great together!
