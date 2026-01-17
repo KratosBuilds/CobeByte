@@ -8,10 +8,11 @@ CodeByte is a community-driven microlearning app designed to make learning to co
 
 ## Current Status 🛠️
 
-This project is just getting started! Currently, the following are being worked on:
-- Planning the app structure.
-- Setting up core features for coding lessons.
-- Drafting early designs for user experience.
+This project is just getting started! Currently, the following are available:
+- **[v1.0.0 - Initial Release](https://github.com/KratosBuilds/codebyte/releases/tag/v1.0.0):** 
+  - Initial repository setup.
+  - Added the README to outline project vision and goals.
+  - Included the MIT license.
 
 ---
 
