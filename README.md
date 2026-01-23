@@ -1,3 +1,15 @@
+# CodeByte
+
+## What is This Project?  
+CodeByte is a tool that helps developers streamline their workflows by automating repetitive tasks. It's perfect for teams looking to save time and stay productive!
+
+---
+
+## Support This Project 🙌🏾 
+If you find CodeByte helpful, consider supporting its development! Your contributions will help me dedicate more time to maintaining and improving the tool.  
+
+[![Sponsor me](https://img.shields.io/badge/Sponsor-❤-ff69b4.svg)](https://github.com/sponsors/kratosbuilds)
+
 # CodeByte (🚀 *In the Making*) 
 
 **Code smarter, not longer — micro lessons, real community, steady growth.**
